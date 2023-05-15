@@ -1,2 +1,2 @@
 -# HOTMK repository
--Keeps track of changes in my code, I guess
+-Keeps track of changes in my code
